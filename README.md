@@ -3,6 +3,11 @@ For our coursework of Multivariate Analysis, our Professor Khasha Dehnad suggest
 
 The dataset has over 6.7 million rows and 22 variables. Since the dataset only has Categorical variables we couldn't apply any linear machine learning application to predict. We decided to appply Logistic Regression for this problem to find out the probability of a crime occurring.
 
+A visual analysis of the dataset can be found on this
+[Tableau Public Page](https://public.tableau.com/profile/tanish.kotyankar#!/vizhome/Chicago_Major_crimes/Story1)
+
+The visual analysis heavily relates to location, hence giving us the idea to do use a geographic field as the target variable.
+
 Influential variables includes
 
 Primary_type:- Its the type of crime being reported. For eg. Theft, Robbery, Assault
